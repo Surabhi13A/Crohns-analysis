@@ -2,7 +2,7 @@
 
 The objective of this project is to answer these questions
 
-Question:
+Questions:
 Do genes team up and express together
 Does this teamed up genes differ between healthy and crohns, and between inflamed and uninflamed
 Can this gene grouping and expression predict a person’s health category (healthy, CD inflamed, CD uninflamed)
